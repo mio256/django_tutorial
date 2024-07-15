@@ -1,3 +1,3 @@
-これはREADMEです。
+# Django tutorial
 
-説明を書くファイルです。
+https://docs.djangoproject.com/ja/5.0/intro/tutorial01/
